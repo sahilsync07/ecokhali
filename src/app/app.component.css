@@ -1,0 +1,16 @@
+.carousel-item img {
+    max-height: 500px;
+    /* Adjust height as needed */
+    object-fit: cover;
+    /* Ensures the image covers the carousel area */
+}
+
+.carousel-caption h5 {
+    color: #ffffff;
+    /* Change text color */
+}
+
+.carousel-caption p {
+    color: #dddddd;
+    /* Change caption color */
+}
